@@ -2,7 +2,9 @@
 
 ## Automotive Value Analysis 
 
-Heroku Web App: https://vehicle-price.herokuapp.com/
+Deployed on Azure: http://autoprice.azurewebsites.net/
+
+(Deprecated) Heroku Web App: https://vehicle-price.herokuapp.com/
 
 ## Background
 
